@@ -1,6 +1,6 @@
 {
   "orgName": "pss-program-setup - Dev Org",
-  "edition": "Developer",
+  "template": "0TT3y000000sf0k",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
